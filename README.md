@@ -58,7 +58,7 @@ This is a static HTML website with inline CSS and JavaScript. To make changes:
 3. GitHub Pages will automatically rebuild and deploy
 
 ## 📧 Contact
-- Email: amcbfoundation@gmail.com
+- Email: amcbfoundationbangladesh@gmail.com
 - Facebook: [AMCB Foundation](https://www.facebook.com/AMCB-Foundation-417097415151666/)
 
 ---
